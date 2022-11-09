@@ -13,6 +13,7 @@ namespace CVS_Reader
         {
             try
             {
+
                 string s = "read.csv";
                 string[] lines = File.ReadAllLines(s);
 
